@@ -311,9 +311,6 @@ class GUI(LeftFrames, RightFrames):
         except:
             pass
 
-def printName(name):
-	print(name)
-
 
 def main():
     app = tk.Tk()
