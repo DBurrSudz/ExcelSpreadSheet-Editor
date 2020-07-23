@@ -323,7 +323,11 @@ def main():
     app.mainloop()
 
 
+def calculateSalary(salary):
+    print(salary * 2)
 
+def print(name):
+    print(name)
 
 #Main Function
 if __name__ == "__main__":
