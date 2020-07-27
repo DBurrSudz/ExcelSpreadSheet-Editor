@@ -312,6 +312,9 @@ class GUI(LeftFrames, RightFrames):
             pass
 
 
+
+
+
 def main():
     app = tk.Tk()
     app.title("Excel Editor")
