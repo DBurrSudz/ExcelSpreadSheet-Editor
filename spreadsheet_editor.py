@@ -12,6 +12,7 @@ Class LeftFrames: Creates the layout for the left side of the GUI
 Class RightFrames: Creates the layout for the right side of the GUI
 Child Class GUI: Inherits from both super classes and attaches widgets and functionality to the layout
 
+@author Daniel Burrell
 
 """
 
